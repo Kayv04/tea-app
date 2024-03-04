@@ -1,0 +1,23 @@
+{
+  "name": "tea-sort-app",
+  "version": "1.0.0",
+  "description": "Demo Tea app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kayv04/tea-app.git"
+  },
+  "dependencies": {
+    "tea-serg": "1.0.0",
+    "tea-demo-app": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kayv04/tea-app/issues"
+  },
+  "homepage": "https://github.com/Kayv04/tea-app#readme"
+}
